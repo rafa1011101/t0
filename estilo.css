@@ -1,0 +1,42 @@
+body{
+	margin: 0 0 0 0;
+	background-color:#202020;
+	color:#CCCCCC;
+}
+
+#topo{
+	width:100%;
+	height:60px;
+	background-color:#181818;
+}
+
+#content{
+	width:100%;
+	height:auto;
+	min-height:557px;
+	background-color:#202020;
+}
+
+.Caixa{
+	width:1000px;
+	height:1000px;
+	left:50%;
+	position:absolute;
+	margin-left:-400px;
+	margin-top:50px;
+	background-color:#313131;
+	
+}
+
+.Text{
+	margin-left:160px;
+	position:absolute;
+	width:620px;
+}
+
+#central{
+	width:1024px;
+	height:60px;
+	margin:0 auto;
+	
+}
